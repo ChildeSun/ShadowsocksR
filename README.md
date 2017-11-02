@@ -3,7 +3,7 @@ ShadowsocksR一键安装脚本
 本脚本适用环境：
 系统支持：CentOS，Debian，Ubuntu
 内存要求：≥128M
-日期：2017 年 07 月 27 日
+日期：2017 年 11 月 2 日
 
 关于本脚本：
 一键安装 ShadowsocksR 服务端。
